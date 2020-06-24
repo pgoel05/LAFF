@@ -8,7 +8,7 @@ The reason y is an input parameter is that the input y indicates whether the out
 
 x and y must each be either an n X 1 array (column vector) or a 1 X n array (row vector).
 
- y_out must be the same kind of vector as y.
+y_out must be the same kind of vector as y.
 
 The function should “transpose” the vector if x and y do not have same “shape”.
 
