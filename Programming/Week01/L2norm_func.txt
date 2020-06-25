@@ -1,0 +1,7 @@
+DESCRIPTION
+
+The function that computes the length of vector x.
+
+x must be either a nx1 array (column vector) or a 1xn array (row vector).
+
+If x is not a (row or column) vector, the output should be 'FAILED'.
