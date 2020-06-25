@@ -1,7 +1,0 @@
-DESCRIPTION
-
-The function that computes the dot product of vectors x and y.
-
-x and y must each be either a nx1 array (column vector) or a 1xn array (row vector)
-
-If x and/or y are not vectors or if the size of (row or column) vector x does not match the size of (row or column) vector y, the output should be 'FAILED'.
